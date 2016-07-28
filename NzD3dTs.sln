@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NzD3dTs", "NzD3dTs.vcxproj", "{354C14B0-95C3-4484-888C-466C397E937F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NzD3dTsCore", "NzD3dTsCore\NzD3dTsCore.vcxproj", "{58E7EC07-1216-4CE3-8C2F-4A1B532FDDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354C14B0-95C3-4484-888C-466C397E937F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{354C14B0-95C3-4484-888C-466C397E937F}.Debug|Win32.Build.0 = Debug|Win32
+		{354C14B0-95C3-4484-888C-466C397E937F}.Release|Win32.ActiveCfg = Release|Win32
+		{354C14B0-95C3-4484-888C-466C397E937F}.Release|Win32.Build.0 = Release|Win32
+		{58E7EC07-1216-4CE3-8C2F-4A1B532FDDDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58E7EC07-1216-4CE3-8C2F-4A1B532FDDDF}.Debug|Win32.Build.0 = Debug|Win32
+		{58E7EC07-1216-4CE3-8C2F-4A1B532FDDDF}.Release|Win32.ActiveCfg = Release|Win32
+		{58E7EC07-1216-4CE3-8C2F-4A1B532FDDDF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
